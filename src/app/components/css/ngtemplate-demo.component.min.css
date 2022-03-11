@@ -1,0 +1,11 @@
+.continer-ng {
+  margin: 0 auto;
+}
+
+.list {
+  -webkit-box-shadow: rgba(19, 18, 18, 0.7) 0px 5px 15px;
+          box-shadow: rgba(19, 18, 18, 0.7) 0px 5px 15px;
+  border: 1px solid;
+  padding: 10px;
+}
+/*# sourceMappingURL=ngtemplate-demo.component.min.css.map */

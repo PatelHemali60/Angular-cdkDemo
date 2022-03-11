@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,YAAY,CAAA;EACR,MAAM,EAAE,MAAM;CACjB;;AACD,AAAA,KAAK,CAAA;EACD,UAAU,EAAE,qBAAsB,CAAC,GAAG,CAAC,GAAG,CAAC,IAAI;EAC/C,MAAM,EAAE,SAAS;EACnB,OAAO,EAAE,IAAI;CAEd",
+    "sources": [
+        "../ngtemplate-demo/ngtemplate-demo.component.scss"
+    ],
+    "names": [],
+    "file": "ngtemplate-demo.component.min.css"
+}
